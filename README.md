@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-
-**Kkahihu/kkahihu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  Welcome to Kelvin Kahihu's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there%2C+I+am+Kelvin;An+Software+Developer+based+in+Nairobi;Hit+me+up%2C+I'd+love+to+work+with+you&font=Fira%20Code&center=true&width=480&height=45&color=F70D27&vCenter=true&size=22"></a>
