@@ -72,23 +72,23 @@ const kelvin = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kkahihu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkahihu&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kkahihu&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kkahihu&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Kkahihu&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -97,8 +97,8 @@ const kelvin = {
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight)](https://github.com/yourusername/project1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight)](https://github.com/yourusername/project2)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kkahihu&repo=project1&theme=tokyonight)](https://github.com/yourusername/project1)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kkahihu&repo=project2&theme=tokyonight)](https://github.com/yourusername/project2)
 
 </div>
 
