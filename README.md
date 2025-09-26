@@ -2,9 +2,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Digital+Solutions+%E2%9A%A1;Based+in+Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA" alt="Typing SVG" />
-</div>
-
-<div align="center">
+  <br/>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
