@@ -93,8 +93,8 @@ const kelvin = {
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kkahihu&repo=project1&theme=tokyonight)](https://github.com/yourusername/project1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kkahihu&repo=project2&theme=tokyonight)](https://github.com/yourusername/project2)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NyumbaNova&repo=numbanova-backend&theme=tokyonight)](https://github.com/NyumbaNova/nyumbanova-backend)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kkahihu&repo=Polar-Web&theme=tokyonight)](https://github.com/Kkahihu/Polar-Web)
 
 </div>
 
